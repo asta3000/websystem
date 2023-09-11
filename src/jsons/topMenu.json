@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Мэдээ, мэдээлэл",
+        "link": "/",
+        "submenu": true,
+        "sublinks": [
+            {
+                "title": "Top Wear",
+                "sublink": [
+                    { "name": "T-Shirt", "link": "/" },
+                    { "name": "Coat", "link": "/" },
+                    { "name": "Hat", "link": "/" },
+                    { "name": "Costume", "link": "/" }
+                ]
+            },
+            {
+                "title": "Bottom Wear",
+                "sublink": [
+                    { "name": "T-Shirt", "link": "/" },
+                    { "name": "Coat", "link": "/" },
+                    { "name": "Hat", "link": "/" },
+                    { "name": "Costume", "link": "/" }
+                ]
+            },
+            {
+                "title": "Inner Wear",
+                "sublink": [
+                    { "name": "T-Shirt", "link": "/" },
+                    { "name": "Coat", "link": "/" },
+                    { "name": "Hat", "link": "/" },
+                    { "name": "Costume", "link": "/" }
+                ]
+            },
+            {
+                "title": "Footer Wear",
+                "sublink": [
+                    { "name": "T-Shirt", "link": "/" },
+                    { "name": "Coat", "link": "/" },
+                    { "name": "Hat", "link": "/" },
+                    { "name": "Costume", "link": "/" }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Санал асуулга",
+        "link": "/"
+    },
+    {
+        "name": "Ажлын байр",
+        "link": "/"
+    },
+    {
+        "name": "Холбоо барих",
+        "link": "/"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Үзүүлэлт",
+        "link": "/",
+        "status": true
+    },
+    {
+        "name": "Систем",
+        "link": "/systems",
+        "status": true
+    },
+    {
+        "name": "Хэрэглэгчийн эрх",
+        "link": "/permissions",
+        "status": true
+    },
+    {
+        "name": "Байгууллага",
+        "link": "/enterprises",
+        "status": true
+    },
+    {
+        "name": "Гэрээ",
+        "link": "/contracts",
+        "status": true
+    },
+    {
+        "name": "Хэрэглэгч",
+        "link": "/users",
+        "status": true
+    },
+    {
+        "name": "Цэс",
+        "link": "/menus",
+        "status": true
+    },
+    {
+        "name": "Мэдээ, мэдээлэл",
+        "link": "/news",
+        "status": true
+    }
+]
